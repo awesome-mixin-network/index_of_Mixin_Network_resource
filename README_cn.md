@@ -9,6 +9,9 @@ https://mixin.one/snapshots
 ## 公链状态
 https://mixin.one/network/chains
 
+## 全节点信息
+[已经确认的内容](https://gist.github.com/myrual/ca5fcd85d0df35c09b3baedb0504a0ca)
+
 ## 开发者
 ### 开发者控制台
 https://developers.mixin.one/dashboard
