@@ -13,7 +13,7 @@ https://mixin.one/network/chains
 ## Full node information
 [Confirmed plan](https://gist.github.com/myrual/4304b98f3adf21fbcf8800838c2375ca)
 
-## Developer
+## Developer resource
 ### Developer dashboard
 https://developers.mixin.one/dashboard
 
@@ -35,3 +35,7 @@ https://mixin-network.gitbook.io/mixin-network/examples-1/go-lang
 ##Events
 ### 1st Online Developer Competition
 https://github.com/myrual/mixin_online-_developer_competition_Jan2019
+
+### Application developer interviews
+https://github.com/awesome-mixin-network/Developer_inteview
+
