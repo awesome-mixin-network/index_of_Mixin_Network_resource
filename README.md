@@ -32,5 +32,6 @@ https://mixin-network.gitbook.io/mixin-network/sdk/node.js
 ### Example(Node.js, JS, Python, Ruby, PHP, Go lang)
 https://mixin-network.gitbook.io/mixin-network/examples-1/go-lang
 
-## 1st Online Developer Competition
+##Events
+### 1st Online Developer Competition
 https://github.com/myrual/mixin_online-_developer_competition_Jan2019
