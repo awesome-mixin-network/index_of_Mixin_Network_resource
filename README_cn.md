@@ -31,5 +31,8 @@ https://mixin-network.gitbook.io/mixin-network/sdk/node.js
 ### 开源项目(Node.js, JS, Python, Ruby, PHP, Go lang)
 https://mixin-network.gitbook.io/mixin-network/examples-1/go-lang
 
-## 第一届网络编程大赛
+## 动态
+### 第一届网络编程大赛
 https://github.com/myrual/mixin_online-_developer_competition_Jan2019
+### 应用开发者访谈
+https://github.com/awesome-mixin-network/Developer_inteview
