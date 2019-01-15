@@ -1,0 +1,32 @@
+# Mixin Network资源索引
+
+## 官方网站
+https://mixin.one
+
+## 区块链浏览器
+https://mixin.one/snapshots
+
+## 公链状态
+https://mixin.one/network/chains
+
+## 开发者
+### 开发者控制台
+https://developers.mixin.one/dashboard
+
+### Mixin Network API
+https://developers.mixin.one/api
+
+### 开发者资源
+* [English](https://mixin-network.gitbook.io/mixin-network/)
+
+* [简体中文](https://mixin-network.gitbook.io/mixin-network-cn/)
+
+### 入门教程
+https://mixin-network.gitbook.io/mixin-network/tutorial/tutorial-index
+### SDK(Node.js, JS, Python, Ruby, PHP, Go lang)
+https://mixin-network.gitbook.io/mixin-network/sdk/node.js
+### 开源项目(Node.js, JS, Python, Ruby, PHP, Go lang)
+https://mixin-network.gitbook.io/mixin-network/examples-1/go-lang
+
+## 第一届网络编程大赛
+https://github.com/myrual/mixin_online-_developer_competition_Jan2019
