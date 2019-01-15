@@ -1,4 +1,5 @@
 # Index of Mixin Network resource
+[中文](https://github.com/awesome-mixin-network/index_of_Mixin_Network_resource/blob/master/README_cn.md)
 
 ## Offical website
 https://mixin.one
