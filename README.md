@@ -10,6 +10,9 @@ https://mixin.one/snapshots
 ## Mixin Network chain status
 https://mixin.one/network/chains
 
+## Full node information
+[Confirmed plan](https://gist.github.com/myrual/4304b98f3adf21fbcf8800838c2375ca)
+
 ## Developer
 ### Developer dashboard
 https://developers.mixin.one/dashboard
