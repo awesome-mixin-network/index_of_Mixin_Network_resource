@@ -25,6 +25,10 @@ https://developers.mixin.one/api
 * [简体中文](https://mixin-network.gitbook.io/mixin-network-cn/)
 
 ### 入门教程
+* [基于Node.js的教程](https://github.com/wenewzhang/mixin_network-nodejs-bot2)
+
+* [基于PHP的教程](https://github.com/wenewzhang/mixin_labs-php-bot)
+
 https://mixin-network.gitbook.io/mixin-network/tutorial/tutorial-index
 ### SDK(Node.js, JS, Python, Ruby, PHP, Go lang)
 https://mixin-network.gitbook.io/mixin-network/sdk/node.js
