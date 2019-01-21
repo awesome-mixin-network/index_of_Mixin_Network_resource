@@ -26,6 +26,8 @@ https://developers.mixin.one/api
 * [Simplified Chinese](https://mixin-network.gitbook.io/mixin-network-cn/)
 
 ### Tutorial
+[Tutorial based on Node.js](https://github.com/wenewzhang/mixin_network-nodejs-bot2)
+[Tutorial based on PHP](https://github.com/wenewzhang/mixin_labs-php-bot)
 https://mixin-network.gitbook.io/mixin-network/tutorial/tutorial-index
 ### SDK(Node.js, JS, Python, Ruby, PHP, Go lang)
 https://mixin-network.gitbook.io/mixin-network/sdk/node.js
