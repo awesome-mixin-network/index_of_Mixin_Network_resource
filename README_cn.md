@@ -24,7 +24,7 @@ https://developers.mixin.one/api
 * [简体中文](https://mixin-network.gitbook.io/mixin-network-cn/)
 
 
-### 工具包和开源例子SDK and open source projects
+### 工具包，教程和开源示例
 
 |开发语言 |工具包地址| 教程|例子|
 |--|--|--|--|
