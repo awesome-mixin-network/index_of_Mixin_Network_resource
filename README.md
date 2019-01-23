@@ -24,7 +24,7 @@ https://developers.mixin.one/api
 * [English](https://mixin-network.gitbook.io/mixin-network/)
 
 
-### Mixin Network SDK and open source projects
+### Available Mixin Network SDK and open source examples
 https://github.com/awesome-mixin-network/mixin_network_sdk_resource
 
 ## Events
