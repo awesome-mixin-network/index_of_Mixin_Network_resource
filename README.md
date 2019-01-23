@@ -20,11 +20,11 @@ https://developers.mixin.one/dashboard
 ### Mixin Network API
 https://developers.mixin.one/api
 
-### Mixin Network developer resource
+### Mixin Network developer documents
 * [English](https://mixin-network.gitbook.io/mixin-network/)
 
-* [Simplified Chinese](https://mixin-network.gitbook.io/mixin-network-cn/)
 
+### SDK and open source projects
 
 |Programming language |SDK Address| Tutorial|Example|
 |--|--|--|--|
