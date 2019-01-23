@@ -34,8 +34,8 @@ https://developers.mixin.one/api
 |Go lang| [MixinNetwork/bot-api-go-client](https://github.com/MixinNetwork/bot-api-go-client)|--|[hacknews](https://github.com/crossle/hacker-news-mixin-bot)|
 |Go lang  |[MooooonStar/mixin-sdk-go](https://github.com/MooooonStar/mixin-sdk-go)|--|[https://www.dodice.com](https://github.com/soooooooon/rock) |
 |Java|[qige-one/mixin_java_sdk](http://github.com/qige-one/mixin_java_sdk)|[Tutorial in Java](https://github.com/wenewzhang/mixin_labs-java-bot)|--|
-|PHP|[ExinOne/mixin-sdk-php](https://github.com/ExinOne/mixin-sdk-php)|[Tutorial in PHP](https://github.com/wenewzhang/mixin_labs-php-bot)|--|
-|Node.js|[wangshijun/mixin-node-client](http://github.com/wangshijun/mixin-node-client)|[Tutorial in  Node.js](https://github.com/wenewzhang/mixin_network-nodejs-bot2)|[love-seal](https://github.com/lyricat/love-seal);[diceos.com](https://github.com/diceos/diceos-p),[https://www.mixin.bet/](https://github.com/lotter1988/lottery)|
+|PHP|[ExinOne/mixin-sdk-php](https://github.com/ExinOne/mixin-sdk-php)|[Tutorial in PHP](https://github.com/wenewzhang/mixin_labs-php-bot)|[xiudongy/flarum](https://github.com/xiudongy/flarum)|
+|Node.js|[wangshijun/mixin-node-client](http://github.com/wangshijun/mixin-node-client)|[Tutorial in  Node.js](https://github.com/wenewzhang/mixin_network-nodejs-bot2)|[love-seal](https://github.com/lyricat/love-seal);[https://diceos.com](https://github.com/diceos/diceos-p),[https://www.mixin.bet/](https://github.com/lotter1988/lottery)|
 
 ## Events
 ### 1st Online Developer Competition
