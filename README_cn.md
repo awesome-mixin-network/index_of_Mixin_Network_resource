@@ -19,13 +19,13 @@ https://developers.mixin.one/dashboard
 ### Mixin Network API
 https://developers.mixin.one/api
 
-### 开发者资源
+### Mixin Network API入门介绍
 
 * [简体中文](https://mixin-network.gitbook.io/mixin-network-cn/)
 
 
 ### 目前可用的工具包，教程和开源示例
-https://github.com/awesome-mixin-network/mixin_network_sdk_resourc
+https://github.com/awesome-mixin-network/mixin_network_sdk_resource
 ## 动态
 ### 第一届网络编程大赛
 https://github.com/myrual/mixin_online-_developer_competition_Jan2019
