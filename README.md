@@ -13,18 +13,18 @@ https://mixin.one/network/chains
 ## Full node information
 [Confirmed details about buiding a node](https://gist.github.com/myrual/4304b98f3adf21fbcf8800838c2375ca)
 
-## Developer resource
-### Developer dashboard
+## Developer resources
+### Dashboard
 https://developers.mixin.one/dashboard
 
-### Mixin Network API
+### Mixin Network API list
 https://developers.mixin.one/api
 
-### Mixin Network developer documents
-* [English](https://mixin-network.gitbook.io/mixin-network/)
+### Mixin Network API introduction for developers
+https://mixin-network.gitbook.io/mixin-network/
 
 
-### Available Mixin Network SDK, tutorials, and open source examples
+### Programming language SDK, tutorials, and open source examples
 https://github.com/awesome-mixin-network/mixin_network_sdk_resource
 
 ## Events
