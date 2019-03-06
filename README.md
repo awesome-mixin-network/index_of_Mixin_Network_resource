@@ -14,6 +14,10 @@ https://mixin.one/network/chains
 [Confirmed details about buiding a node](https://gist.github.com/myrual/4304b98f3adf21fbcf8800838c2375ca)
 
 ## Developer resources
+## chat room
+[![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/Mixin-Network/Lobby)
+
+[Developer groups in Mixin messenger](https://mixin.one/codes/a845c701-7bdc-42f4-aec4-9b16b3cc5893)
 ### Dashboard
 https://developers.mixin.one/dashboard
 
