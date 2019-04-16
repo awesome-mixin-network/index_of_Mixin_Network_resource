@@ -42,7 +42,10 @@ https://github.com/awesome-mixin-network/Developer_inteview
 
 ## Media
 [Medium](https://medium.com/mixinnetwork)
+
 [Juejin](https://juejin.im/user/5becd7b45188254caf184657)
+
 [Segmentfault](https://segmentfault.com/u/mixin_network)
+
 [Gitpress.io](https://gitpress.io/u/26/)
 
