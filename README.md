@@ -6,6 +6,8 @@ https://mixin.one
 
 ## Mixin Network browser
 https://mixin.one/snapshots
+## Mixin Main net node status
+https://node.f1ex.io
 
 ## Mixin Network chain status
 https://mixin.one/network/chains
