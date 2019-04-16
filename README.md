@@ -15,6 +15,12 @@ https://mixin.one/network/chains
 ## Full node information
 [Confirmed details about buiding a node](https://gist.github.com/myrual/4304b98f3adf21fbcf8800838c2375ca)
 
+## Main Net repo
+[MixinNetwork/mixin](https://github.com/MixinNetwork/mixin)
+
+## Team open source repo
+https://github.com/MixinNetwork
+
 ## Developer resources
 ## chat room
 [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/Mixin-Network/Lobby)
