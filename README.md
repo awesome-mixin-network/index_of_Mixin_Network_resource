@@ -27,6 +27,11 @@ https://github.com/MixinNetwork
 3. [mixwallet](https://wallet.mixcoin.one). An opensource website wlalet
 4. [Pixinwallet](http://github.com/myrual/pixinwallet). A battery included opensource wallet. Mac, PC, Linux.
 
+## Exchange running on Mixin Network
+Decentralized Exchange: [Ocean](https://ocean.one), [github repo](http://github.com/MixinNetwork/ocean.one)
+
+Centralized instantly exchang: ExinCore, [github repo](http://github.com/exinone/exincore)
+
 ## Developer resources
 ## chat room
 [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/Mixin-Network/Lobby)
