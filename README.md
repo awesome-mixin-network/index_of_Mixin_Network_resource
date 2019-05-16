@@ -24,7 +24,7 @@ https://github.com/MixinNetwork
 ## wallet list
 1. [Mixin Messenger](https://mixin.one/messenger). iOS and Android. Phone number based mobile wallet.
 2. [Mixinlight](http://mixinlight.github.io/). An opensource google chrome extension wallet.
-3. [mixwallet](https://wallet.mixcoin.one). An opensource website wlalet
+3. [mixwallet](https://wallet.mixcoin.one). An opensource website wallet.
 4. [Pixinwallet](http://github.com/myrual/pixinwallet). A battery included opensource wallet. Mac, PC, Linux.
 
 ## Exchange running on Mixin Network
