@@ -1,4 +1,4 @@
-How to check box asset account:
+How to check [BOX ETF asset](https://b.watch/) account:
 
 ```shell
 curl -i -H "Content-Type: application/json" -H "Authorization: Bearer eyJhbGciOiJSUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1Njk4MzM3MTYsImlhdCI6MTU2MjA1NzcxNiwianRpIjoiYmNmOWU4OGEtNzE1ZC00ZGY4LThjYjctZTY0OTdhYjljMGYzIiwic2lkIjoiNDY5NmVmM2ItZjg3YS00YzZlLWI1MjctZmJkYWMzMWI4ZTY0Iiwic2lnIjoiODU3M2VjNWE0N2M2OTFkYjMwNzNmOTIyNTA2ODc5OTg5YmFhMjBiODJmY2QxZTEyNmMwN2RiNmI0YjllMDc5ZSIsInVpZCI6Ijk3YzNhZGZlLTFlYmQtMzRlNy04MTM4LTJmYTMxOTg5YjI5NyJ9.JvAcbZcggojF4pXgiq6_x7sqgfeHUxrX5ZN-JBuMwXQdFJrWXvYXwo6kKHPKCxA0uYo06QD-JCnnX5n9Q5RZe9R224amPi0zTEv74gNDbV_1Pl5UxjIDBlc_dVUzwvorABKM9lrOA3tAahPQc8nrEA6QHJUm4bCw3QFjcVgMGNw" "https://api.mixin.one/assets"
